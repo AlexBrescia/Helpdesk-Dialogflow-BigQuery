@@ -1,4 +1,4 @@
-## Creating a helpdest chatbot
+## Creating a helpdesk chatbot
 
 Train a simple machine learning model for predicting helpdesk response time using BigQuery. 
 
